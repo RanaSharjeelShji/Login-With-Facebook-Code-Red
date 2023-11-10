@@ -1,4 +1,4 @@
-import 'package:fbsocial/firebaseservices.dart';
+import 'package:loginwithfacebook/firebasefunctions.dart';
 import 'package:flutter/material.dart';
 
 class LoginPage extends StatefulWidget {
