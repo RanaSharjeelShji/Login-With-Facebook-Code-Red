@@ -1,6 +1,7 @@
 # fbsocial
 
-A new Flutter project.
+Watch Explined Tutorial On Youtube.
+https://youtu.be/lZsYs7Mwaac
 
 ## Getting Started
 
